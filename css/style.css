@@ -1,3 +1,11 @@
 body{
     background-color: burlywood;
 }
+p{
+    font-size: larger;
+    color: brown;
+}
+h1{
+    font-weight: bold;
+    color: blueviolet;
+}
